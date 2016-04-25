@@ -1,0 +1,18 @@
+{
+  "name": "serve-directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Yu",
+  "dependencies": {
+    "finalhandler": "^0.4.1",
+    "serve-index": "^1.7.3",
+    "serve-static": "^1.10.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
